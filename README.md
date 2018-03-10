@@ -9,6 +9,8 @@ Este equipo está formado por:
 
 Este programa fue creado completamente en Android Studio. Los mockups fueron generados usando Balsamiq Mockups.
 
+El vídeo del spot publicitario con la demo se puede encontrar en el [siguiente enlace](https://youtu.be/zIzlikfWeDc).
+
 ## Reto ##
 
 El reto que se escogió fue el que se puede encontrar en el siguiente [enlace](https://hackforgood.net/app-social-para-alergicos-e-intolerantes/).
